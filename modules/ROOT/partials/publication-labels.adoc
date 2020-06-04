@@ -1,0 +1,2 @@
+// IMPORTANT: Do not include any blank lines in the transation file.
+ifdef::lang[include::partial$publication-labels-{lang}.adoc[]]
